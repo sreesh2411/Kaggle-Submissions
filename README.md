@@ -1,5 +1,5 @@
 # Kaggle-Submissions
-This repository contains the submissions to various competitions in Kaggle so far.
+This repository contains the submissions to various competitions in Kaggle done so far.
 
 ## Competitions: 
 ### Titanic - Machine Learning from Disaster:
