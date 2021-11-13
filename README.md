@@ -12,7 +12,7 @@ Score:  0.80622
 
 ![Titanic Score](https://github.com/sreesh2411/Kaggle-Submissions/blob/main/Titanic/score.png)
 
-### Housing Prices Competition for Kaggle Learn Users
+### Housing Prices Competition for Kaggle Learn Users:
 Link: https://www.kaggle.com/c/home-data-for-ml-course <br>
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
